@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 [![codeforces](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Ftoufu24)](https://codeforces.com/profile/toufu24)
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toufu-24&theme=transparent"/>
-</p>
-
-<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toufu-24&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toufu-24&theme=transparent"/>
 </p>
