@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 [![atcoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Ftoufu24)](https://atcoder.jp/users/toufu24)
 [![codeforces](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Ftoufu24)](https://codeforces.com/profile/toufu24)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toufu-24/toufu-24/main/snake/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toufu-24/toufu-24/main/snake/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/toufu-24/toufu-24/main/snake/grid-snake.svg">
+</picture>
+
 ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/3-stats.svg) ![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/city_lights/4-productive-time.svg)
