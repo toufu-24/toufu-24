@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/panda/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/toufu-24/toufu-24/main/profile-summary-card-output/panda/4-productive-time.svg)
+```
+
+    
