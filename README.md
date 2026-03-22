@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 </p>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=toufu-24&theme=onedark&column=4
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=toufu-24&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
